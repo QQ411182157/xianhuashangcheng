@@ -46,3 +46,6 @@ https://space.bilibili.com/3546387549522168?spm_id_from=333.1007.0.0
 #### 微信号 myaddr
 
 <img src="https://gitee.com/QQ411182157/mingpian/raw/master/weixin.png" width="210px">
+
+#### 淘宝搜
+#### qq411182157
